@@ -22,7 +22,7 @@ header{
 }
 
 body{
-   background-image: url(/assects/images/61629e95a29ba80012e40530-4200x.jpeg);
+   background-image: url(../assects/images/61629e95a29ba80012e40530-4200x.jpeg);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -121,7 +121,7 @@ h2{
     gap: 25px;
 }
 .page-1{
-    background: url(/assects/images/61629e95a29ba80012e40530-4200x.jpeg);
+    background: url(../assects/images/61629e95a29ba80012e40530-4200x.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -163,7 +163,7 @@ h2{
     background-color: rgba(0, 0, 0, 0.4);
 }
 .page-2{
-    background: url(/assects/images/61629e95a29ba80012e40530-4200x.jpeg);
+    background: url(../assects/images/61629e95a29ba80012e40530-4200x.jpeg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover; 
@@ -193,7 +193,7 @@ h2{
     color: #52aad6;
 }
 .page-3{
-    background: url(/assects/images/61629e95a29ba80012e40530-4200x.jpeg);
+    background: url(../assects/images/61629e95a29ba80012e40530-4200x.jpeg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover; 
